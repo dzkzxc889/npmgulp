@@ -1,0 +1,24 @@
+{
+  "name": "duzekun",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "22"
+  },
+  "keywords": [
+    "33"
+  ],
+  "author": "44",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1"
+  }
+}
